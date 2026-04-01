@@ -1,0 +1,11 @@
+# Bỏ qua file biên dịch của Java
+*.class
+target/
+build/
+
+# Bỏ qua cấu hình của IDE (Eclipse, IntelliJ)
+.idea/
+.metadata/
+.settings/
+.classpath
+.project
