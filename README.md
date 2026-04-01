@@ -9,7 +9,7 @@
 
 Dự án được thiết kế theo kiến trúc **MVC (Model-View-Controller)** chuẩn, áp dụng triệt để **DTO Pattern** (Data Transfer Object) để tối ưu hóa luồng dữ liệu truyền tải.
 Hệ thống này hoạt động song song với phía giao diện người dùng. Bạn có thể xem mã nguồn Frontend và bản chạy thử tại đây:
-* **🖥️ Frontend Repository (Vue.js):** [(https://github.com/hoaibao161108/bakery-management-backend]
+* **🖥️ Frontend Repository (Vue.js):** [(https://github.com/hoaibao161108/bakery-management-frontend]
 
 ## 🚀 Công nghệ sử dụng
 * **Ngôn ngữ:** Java 17
