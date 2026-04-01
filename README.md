@@ -8,6 +8,8 @@
 Đây là hệ thống Backend (RESTful API) được xây dựng cho dự án website thương mại điện tử tiệm bánh cao cấp **Polycake**. Hệ thống cung cấp toàn bộ nền tảng dữ liệu và xử lý logic nghiệp vụ cho phía giao diện (Frontend Vue.js), từ quản lý sản phẩm, giỏ hàng, cho đến quy trình thanh toán và phân quyền người dùng.
 
 Dự án được thiết kế theo kiến trúc **MVC (Model-View-Controller)** chuẩn, áp dụng triệt để **DTO Pattern** (Data Transfer Object) để tối ưu hóa luồng dữ liệu truyền tải.
+Hệ thống này hoạt động song song với phía giao diện người dùng. Bạn có thể xem mã nguồn Frontend và bản chạy thử tại đây:
+* **🖥️ Frontend Repository (Vue.js):** [(https://github.com/hoaibao161108/bakery-management-backend]
 
 ## 🚀 Công nghệ sử dụng
 * **Ngôn ngữ:** Java 17
